@@ -1,7 +1,7 @@
-import Content from './src/Content';
-import Footer from './src/Footer';
 import Header from './src/Header';
 import Navigation from './src/Navigation';
+import Content from './src/Content';
+import Footer from './src/Footer';
 import Store from './state/store';
 import { startCase } from 'lodash';
 import axios from 'axios';

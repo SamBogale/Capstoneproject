@@ -21508,7 +21508,7 @@ _axios.default.get('https://jsonplaceholder.typicode.com/posts').then(function (
     });
   });
 });
-},{"./src/Content":"src/Content.js","./src/Footer":"src/Footer.js","./src/Header":"src/Header.js","./src/Navigation":"src/Navigation.js","./state/store":"state/store.js","lodash":"node_modules/lodash/lodash.js","axios":"node_modules/axios/index.js","navigo":"node_modules/navigo/lib/navigo.min.js"}],"../Users/samen/AppData/Roaming/npm-cache/_npx/9712/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./src/Content":"src/Content.js","./src/Footer":"src/Footer.js","./src/Header":"src/Header.js","./src/Navigation":"src/Navigation.js","./state/store":"state/store.js","lodash":"node_modules/lodash/lodash.js","axios":"node_modules/axios/index.js","navigo":"node_modules/navigo/lib/navigo.min.js"}],"../Users/samen/AppData/Roaming/npm-cache/_npx/1404/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -21536,7 +21536,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59306" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60912" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -21711,5 +21711,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../Users/samen/AppData/Roaming/npm-cache/_npx/9712/node_modules/parcel/src/builtins/hmr-runtime.js","index.js"], null)
+},{}]},{},["../Users/samen/AppData/Roaming/npm-cache/_npx/1404/node_modules/parcel/src/builtins/hmr-runtime.js","index.js"], null)
 //# sourceMappingURL=/Capstoneproject.e31bb0bc.js.map
