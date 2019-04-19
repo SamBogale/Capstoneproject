@@ -128,7 +128,7 @@ exports.default = Header;
 function Header(state) {
   return "\n    <div id=\"header\">\n        \n            <h1>ABC office supply and seller</h1>\n        \n       \n    </div>\n  ";
 }
-},{}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/base64-js/index.js":[function(require,module,exports) {
+},{}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/base64-js/index.js":[function(require,module,exports) {
 'use strict'
 
 exports.byteLength = byteLength
@@ -281,7 +281,7 @@ function fromByteArray (uint8) {
   return parts.join('')
 }
 
-},{}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/ieee754/index.js":[function(require,module,exports) {
+},{}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/ieee754/index.js":[function(require,module,exports) {
 exports.read = function (buffer, offset, isLE, mLen, nBytes) {
   var e, m
   var eLen = (nBytes * 8) - mLen - 1
@@ -367,14 +367,14 @@ exports.write = function (buffer, value, offset, isLE, mLen, nBytes) {
   buffer[offset + i - d] |= s * 128
 }
 
-},{}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/isarray/index.js":[function(require,module,exports) {
+},{}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/isarray/index.js":[function(require,module,exports) {
 var toString = {}.toString;
 
 module.exports = Array.isArray || function (arr) {
   return toString.call(arr) == '[object Array]';
 };
 
-},{}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/buffer/index.js":[function(require,module,exports) {
+},{}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/buffer/index.js":[function(require,module,exports) {
 
 var global = arguments[3];
 /*!
@@ -2167,7 +2167,7 @@ function isnan (val) {
   return val !== val // eslint-disable-line no-self-compare
 }
 
-},{"base64-js":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/base64-js/index.js","ieee754":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/ieee754/index.js","isarray":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/isarray/index.js","buffer":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/buffer/index.js"}],"node_modules/lodash/lodash.js":[function(require,module,exports) {
+},{"base64-js":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/base64-js/index.js","ieee754":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/ieee754/index.js","isarray":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/isarray/index.js","buffer":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/buffer/index.js"}],"node_modules/lodash/lodash.js":[function(require,module,exports) {
 var global = arguments[3];
 var Buffer = require("buffer").Buffer;
 var define;
@@ -19279,7 +19279,7 @@ var define;
   }
 }.call(this));
 
-},{"buffer":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/buffer/index.js"}],"src/More.js":[function(require,module,exports) {
+},{"buffer":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/buffer/index.js"}],"src/More.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -20693,7 +20693,7 @@ module.exports = function xhrAdapter(config) {
     request.send(requestData);
   });
 };
-},{"./../utils":"node_modules/axios/lib/utils.js","./../core/settle":"node_modules/axios/lib/core/settle.js","./../helpers/buildURL":"node_modules/axios/lib/helpers/buildURL.js","./../helpers/parseHeaders":"node_modules/axios/lib/helpers/parseHeaders.js","./../helpers/isURLSameOrigin":"node_modules/axios/lib/helpers/isURLSameOrigin.js","../core/createError":"node_modules/axios/lib/core/createError.js","./../helpers/btoa":"node_modules/axios/lib/helpers/btoa.js","./../helpers/cookies":"node_modules/axios/lib/helpers/cookies.js"}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/process/browser.js":[function(require,module,exports) {
+},{"./../utils":"node_modules/axios/lib/utils.js","./../core/settle":"node_modules/axios/lib/core/settle.js","./../helpers/buildURL":"node_modules/axios/lib/helpers/buildURL.js","./../helpers/parseHeaders":"node_modules/axios/lib/helpers/parseHeaders.js","./../helpers/isURLSameOrigin":"node_modules/axios/lib/helpers/isURLSameOrigin.js","../core/createError":"node_modules/axios/lib/core/createError.js","./../helpers/btoa":"node_modules/axios/lib/helpers/btoa.js","./../helpers/cookies":"node_modules/axios/lib/helpers/cookies.js"}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/process/browser.js":[function(require,module,exports) {
 
 // shim for using process in browser
 var process = module.exports = {}; // cached from whatever global is present so that test runners that stub it
@@ -21001,7 +21001,7 @@ utils.forEach(['post', 'put', 'patch'], function forEachMethodWithData(method) {
 
 module.exports = defaults;
 
-},{"./utils":"node_modules/axios/lib/utils.js","./helpers/normalizeHeaderName":"node_modules/axios/lib/helpers/normalizeHeaderName.js","./adapters/xhr":"node_modules/axios/lib/adapters/xhr.js","./adapters/http":"node_modules/axios/lib/adapters/xhr.js","process":"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/node_modules/process/browser.js"}],"node_modules/axios/lib/core/InterceptorManager.js":[function(require,module,exports) {
+},{"./utils":"node_modules/axios/lib/utils.js","./helpers/normalizeHeaderName":"node_modules/axios/lib/helpers/normalizeHeaderName.js","./adapters/xhr":"node_modules/axios/lib/adapters/xhr.js","./adapters/http":"node_modules/axios/lib/adapters/xhr.js","process":"../../../../.npm/_npx/85255/lib/node_modules/parcel/node_modules/process/browser.js"}],"node_modules/axios/lib/core/InterceptorManager.js":[function(require,module,exports) {
 'use strict';
 
 var utils = require('./../utils');
@@ -21508,7 +21508,7 @@ _axios.default.get('https://jsonplaceholder.typicode.com/posts').then(function (
     });
   });
 });
-},{"./src/Header":"src/Header.js","./src/Navigation":"src/Navigation.js","./src/Content":"src/Content.js","./src/Footer":"src/Footer.js","./state/store":"state/store.js","lodash":"node_modules/lodash/lodash.js","axios":"node_modules/axios/index.js","navigo":"node_modules/navigo/lib/navigo.min.js"}],"../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./src/Header":"src/Header.js","./src/Navigation":"src/Navigation.js","./src/Content":"src/Content.js","./src/Footer":"src/Footer.js","./state/store":"state/store.js","lodash":"node_modules/lodash/lodash.js","axios":"node_modules/axios/index.js","navigo":"node_modules/navigo/lib/navigo.min.js"}],"../../../../.npm/_npx/85255/lib/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -21536,7 +21536,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51031" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50459" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -21711,5 +21711,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../Users/samen/AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","index.js"], null)
+},{}]},{},["../../../../.npm/_npx/85255/lib/node_modules/parcel/src/builtins/hmr-runtime.js","index.js"], null)
 //# sourceMappingURL=/Capstoneproject.e31bb0bc.js.map
