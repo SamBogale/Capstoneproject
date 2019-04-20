@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamBogale/SamBogale.git"
+    "url": "git+https://github.com/SamBogale/Capstoneproject"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SamBogale/SamBogale/issues"
+    "url": "https://github.com/SamBogale/Capstoneproject/issues"
   },
-  "homepage": "https://github.com/SamBogale/SamBogale#readme",
+  "homepage": "https://github.com/SamBogale/Capstoneproject#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
