@@ -4,8 +4,8 @@
   "description": "[printers image](https://www.google.com/search?q=printers+image&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj7wsqCoIDhAhWq6YMKHSTFAK8Q_AUIDigB&biw=1280&bih=60)<br/>\r [Scanner image](https://www.google.com/search?biw=1280&bih=609&tbm=isch&sa=1&ei=7Y-JXNrbMMi7jwSTrpXQAw&q=scanner+image&oq=scann+image&gs_l=img.1.0.0i7i30l10.4282491.4286530..4288982...0.0..0.96.857.13......1....1..gws-wiz-img.......0j0i67j0i5i30j35i39.RKJ4w-z9ZJg)<br/>\r [desktop computers image](https://www.publicdomainpictures.net/en/hledej.php?hleda=compute)<br/>\r [Software image](https://www.google.com/search?rlz=1C1CHBF_enUS837US837&q=software+image&tbm=isch&source=univ&sa=X&ved=2ahUKEwjtrN2LsYDhAhUmxYMKHdBgA94QsAR6BAgCEAE&biw=1280&bih=609)<br>\r [project pdf](https://github.com/SamBogale/SamBogale/blob/master/Docs/Capstoneproject.pdf)<br/>\r [Font](https://fonts.google.com/)<br/>\r [color](https://coolors.co/96bbbb-618985-414535-f2e3bc-c19875)<br/>\r [Images](https://github.com/SamBogale/SamBogale/blob/master/image/keyboard%20keys.jpg)<br/>",
   "main": "index.js",
   "scripts": {
-    "build": "parcel build index.html && cp _redirects ./dist/",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
