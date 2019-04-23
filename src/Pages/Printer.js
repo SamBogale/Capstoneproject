@@ -37,7 +37,7 @@ export default function Printer() {
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button> </div>
             </div>
@@ -46,7 +46,7 @@ export default function Printer() {
               <div class="b111">
             <div class="row">
             <div class="pbox1">
-                <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Printer1.jpg">
+                <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Printer1.jpg">
                 <div class="pbox2"> Epson Expression ET-2750 EcoTank All-in-One Color Ink-jet - Multifunction printers
                 </br>About this product</br>
                 <li>Compatible with the way you work</li>
@@ -68,7 +68,7 @@ export default function Printer() {
             
             <div class="row">
             <div class="pbox1">
-                <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Printer2.jpg">
+                <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Printer2.jpg">
                 <div class="pbox2">Epson Expression ET-2750 EcoTank All-in-One Color Ink-jet - Multifunction printers
                 </br>About this product</br>
                 <li>Compatible with the way you work</li>
@@ -88,7 +88,7 @@ export default function Printer() {
             </div>
             <div class="row">
             <div class="pbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Printer3.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Printer3.jpg">
             <div class="pbox2"> Epson Expression ET-2750 EcoTank All-in-One Color Ink-jet - Multifunction printers
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -107,7 +107,7 @@ export default function Printer() {
                 </div>
             <div class="row">
             <div class="pbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Printer4.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Printer4.jpg">
             <div class="pbox2">Epson Expression ET-2750 EcoTank All-in-One Color Ink-jet - Multifunction printers
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -127,7 +127,7 @@ export default function Printer() {
             </div>
             <div class="row">
             <div class="pbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Printer5.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Printer5.jpg">
             <div class="pbox2">Epson Expression ET-2750 EcoTank All-in-One Color Ink-jet - Multifunction printers
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -157,7 +157,7 @@ export default function Printer() {
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button>
 
@@ -166,7 +166,7 @@ export default function Printer() {
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button>
 
@@ -175,19 +175,19 @@ export default function Printer() {
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button>
 
             </div>
             <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
          <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       

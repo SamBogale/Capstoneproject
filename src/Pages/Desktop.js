@@ -37,7 +37,7 @@ export default function Desktop(){
 <div class="b111">
     <div class="row">
         <div class="dbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop1.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop1.jpg">
             <div class="dbox2"> </br>Dell Inspiron 24 3000 
             Touch Desktop- 8GB - 1TB - Windows 10 Home
              </div>
@@ -50,7 +50,7 @@ export default function Desktop(){
                 <h1 class="price">$500</h></div>
     </div>   
     <div class="dbox1">
-        <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop2.jpg">
+        <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop2.jpg">
         <div class="dbox2"></br>Dell Inspiron 22 3000 Touch (Intel ) w/ 8th gen Intel Core Desktop - 20GB - 1TB - Windows 10 Home</div>
         <div class="span"> <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
@@ -64,7 +64,7 @@ export default function Desktop(){
      </div>
      <div class="row">
         <div class="dbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop3.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop3.jpg">
             <div class="dbox2"></br>Dell Inspiron 24 3000 Touch (Intel ) w/ Intel Core Desktop - 8GB - 1TB - Windows 10 Home</div>
             <div class="span"> <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
@@ -77,7 +77,7 @@ export default function Desktop(){
     
     </div>   
     <div class="dbox1">
-        <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop4.jpg">
+        <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop4.jpg">
         <div class="dbox2"></br>HP Slimline 290-a0047cb - A9 -9425 3.1 GHz - 8 GB RAM - 2 TB HDD - AMD Radeon R5 - Windows 10 Home</div>
         <div class="span"> <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
@@ -91,7 +91,7 @@ export default function Desktop(){
      </div>
      <div class="row">
         <div class="dbox1">
-            <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop5.jpg">
+            <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop5.jpg">
             <div class="dbox2"></br>HP DC Desktop Computer 3.0 GHz Core 2 Duo Tower PC, 4GB RAM, 250 GB HDD, Windows 7, White</div>
             <div class="span"> <span class="fa fa-star checked"></span>
             <span class="fa fa-star checked"></span>
@@ -103,7 +103,7 @@ export default function Desktop(){
                     <h1 class="price">$500</h></div>
          </div>   
     <div class="dbox1">
-        <img src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Desktop6.jpg">
+        <img src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Desktop6.jpg">
         <div class="dbox2">Lenovo 520-24ARR F0DN - 23.8" LED - Ryzen 3 2200GE 3.2 GHz - 4 GB RAM - 1 TB HDD - AMD Radeon RX Vega 8 - Windows 10 Home</div>
         <div class="span"> <span class="fa fa-star checked"></span>
         <span class="fa fa-star checked"></span>
@@ -118,25 +118,25 @@ export default function Desktop(){
 </div>
 <div class="brow">
         <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories11.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories11.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
         <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories12.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories12.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
         <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories13.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories13.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
          <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories13.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories13.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       

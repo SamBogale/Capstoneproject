@@ -19,13 +19,13 @@ export default function Scanner(){
  </div>
  <div class="abc">
  <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
          <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
@@ -36,7 +36,7 @@ export default function Scanner(){
 <div class="b111">
     <div class="row">
         <div class="sbox1">
-            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Scanner1.jpg">
+            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Scanner1.jpg">
             <div class="sbox2"> Epson WorkForce ES-400 B11B226201 Desktop Scanner, Black
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -60,7 +60,7 @@ export default function Scanner(){
     </div>
     <div class="row">
         <div class="sbox1">
-            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Scanner2.jpg">
+            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Scanner2.jpg">
             <div class="sbox2">Epson ScanSnap iX1500 Sheetfed Scanner, 600 dpi Optical
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -80,7 +80,7 @@ export default function Scanner(){
     </div>
     <div class="row">
         <div class="sbox1">
-            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Scanner3.jpg">
+            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Scanner3.jpg">
             <div class="sbox2"> Epson ScanSnap iX1500 Sheetfed Scanner, 600 dpi Optical
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -104,7 +104,7 @@ export default function Scanner(){
     </div>
     <div class="row">
         <div class="sbox1">
-            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Scanner4.jpg">
+            <img class="simag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Scanner4.jpg">
             <div class="sbox2"> HP Digital Sender Flow 8500 fn2 L2762A#BGJ Sheetfed Scanner, Black/White
             </br>About this product</br>
             <li>Compatible with the way you work</li>
@@ -125,14 +125,14 @@ export default function Scanner(){
             </div></br>
     <div class="brow">
     <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
          </div>
          
 <div class="abox1">
-<img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories15.jpg">
+<img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories15.jpg">
 <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
 <div class="abox2"><h1 class="price">$500</h1></div>                
 <div class="abox3"><button type="button" >Add to Cart</button></div>       
@@ -164,7 +164,7 @@ export default function Scanner(){
          <li> <a href="#">Return & Exchange Promise</a></li>                     
              </div>
              <div class="abox1">
-            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Accessories14.jpg">
+            <img class="aimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Accessories14.jpg">
             <p class="title">Dell Wireless Mouse-WM126 - Blue </p> 
             <div class="abox2"><h1 class="price">$500</h1></div>                
             <div class="abox3"><button type="button" >Add to Cart</button></div>       
@@ -173,7 +173,7 @@ export default function Scanner(){
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button>
 
@@ -182,7 +182,7 @@ export default function Scanner(){
                 <div>
                     <h1 class="sprice">$500</h1>
                 </div>
-                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Sambogale-Capstone--Project/master/image/Software9.jpg">
+                <img class="soimag" src="https://raw.githubusercontent.com/SamBogale/Capstoneproject/master/image/Software9.jpg">
             </div>
             <div><button class="sobutton" type="button">Add to Cart</button>
 
