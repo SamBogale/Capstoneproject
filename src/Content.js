@@ -1,5 +1,4 @@
-import * as Pages from './pages';
-
+import * as Pages from './Pages';
 
 export default function Content(state){
     var page = state[state.active].body;
